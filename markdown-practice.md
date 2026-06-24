@@ -52,7 +52,7 @@ print("Hello World")
 
 ## About Me
 
-Hello!! My name is **Martin Munene** a student currently learning *artificial intelligence*
+Hello! My name is **Martin Munene** a student currently learning *artificial intelligence*
 
 -Useful website:https://githhub.com
 
