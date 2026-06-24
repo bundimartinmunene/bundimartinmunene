@@ -50,10 +50,10 @@ print("Hello World")
 > Practice makes perfect
 
 
-##About Me
+## About Me
 
 Hello!! My name is **Martin Munene** a student currently learning *artificial intelligence*
 
--Useful websites:https://githhub.com
+-Useful website:https://githhub.com
 
-> Sometimes it's the journey that teaches you a lot about your destination
+> Sometimes it's the journey that teaches you a lot about your destination.
